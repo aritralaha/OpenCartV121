@@ -1,0 +1,62 @@
+17:51:21:191 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\INE12400939\AppData\Local\JetBrains\IdeaIC2023.1\temp-testng-customsuite.xml
+
+10:41:25:783 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\INE12400939\AppData\Local\JetBrains\IdeaIC2023.1\temp-testng-customsuite.xml
+
+10:41:30:838 [main] INFO  testCases.TC001_createAccount - ********Starting TC001_createAccount
+10:41:30:876 [main] INFO  testCases.TC001_createAccount - ********Clicked on My Account link
+10:41:32:265 [main] INFO  testCases.TC001_createAccount - ********Clicked on Register link
+10:41:34:931 [main] INFO  testCases.TC001_createAccount - ********Entering user details
+10:41:35:664 [main] INFO  testCases.TC001_createAccount - ********Clicking on continue button
+10:41:39:864 [main] INFO  testCases.TC001_createAccount - validating expected message
+10:49:00:524 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\INE12400939\AppData\Local\JetBrains\IdeaIC2023.1\temp-testng-customsuite.xml
+
+10:49:04:611 [main] INFO  testCases.TC001_createAccount - ********Starting TC001_createAccount
+10:49:04:650 [main] INFO  testCases.TC001_createAccount - ********Clicked on My Account link
+10:49:05:774 [main] INFO  testCases.TC001_createAccount - ********Clicked on Register link
+10:49:08:419 [main] INFO  testCases.TC001_createAccount - ********Entering user details
+10:49:09:115 [main] INFO  testCases.TC001_createAccount - ********Clicking on continue button
+10:49:12:690 [main] INFO  testCases.TC001_createAccount - validating expected message
+10:49:12:720 [main] ERROR testCases.TC001_createAccount - Test Failed
+10:50:13:346 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\INE12400939\AppData\Local\JetBrains\IdeaIC2023.1\temp-testng-customsuite.xml"
+10:50:13:553 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\INE12400939\AppData\Local\JetBrains\IdeaIC2023.1\temp-testng-customsuite.xml
+
+10:50:17:490 [main] INFO  testCases.TC001_createAccount - ********Starting TC001_createAccount
+10:50:17:535 [main] INFO  testCases.TC001_createAccount - ********Clicked on My Account link
+10:50:18:851 [main] INFO  testCases.TC001_createAccount - ********Clicked on Register link
+10:50:21:473 [main] INFO  testCases.TC001_createAccount - ********Entering user details
+10:50:22:187 [main] INFO  testCases.TC001_createAccount - ********Clicking on continue button
+10:50:26:167 [main] INFO  testCases.TC001_createAccount - validating expected message
+10:50:26:202 [main] ERROR testCases.TC001_createAccount - Test Failed
+10:50:26:202 [main] DEBUG testCases.TC001_createAccount - Debug the error
+11:35:35:606 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\INE12400939\AppData\Local\JetBrains\IdeaIC2023.1\temp-testng-customsuite.xml"
+11:35:35:833 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\INE12400939\AppData\Local\JetBrains\IdeaIC2023.1\temp-testng-customsuite.xml
+
+11:35:40:104 [main] INFO  testCases.TC001_createAccount - ********Starting TC001_createAccount
+11:35:40:148 [main] INFO  testCases.TC001_createAccount - ********Clicked on My Account link
+11:35:41:272 [main] INFO  testCases.TC001_createAccount - ********Clicked on Register link
+11:35:43:892 [main] INFO  testCases.TC001_createAccount - ********Entering user details
+11:35:44:636 [main] INFO  testCases.TC001_createAccount - ********Clicking on continue button
+11:35:48:217 [main] INFO  testCases.TC001_createAccount - validating expected message
+11:35:48:244 [main] ERROR testCases.TC001_createAccount - Test Failed
+11:35:48:245 [main] DEBUG testCases.TC001_createAccount - Debug the error
+11:37:17:156 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\INE12400939\AppData\Local\JetBrains\IdeaIC2023.1\temp-testng-customsuite.xml"
+11:37:17:365 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\INE12400939\AppData\Local\JetBrains\IdeaIC2023.1\temp-testng-customsuite.xml
+
+11:37:21:385 [main] INFO  testCases.TC001_createAccount - ********Starting TC001_createAccount
+11:37:21:415 [main] INFO  testCases.TC001_createAccount - ********Clicked on My Account link
+11:37:22:567 [main] INFO  testCases.TC001_createAccount - ********Clicked on Register link
+11:37:25:277 [main] INFO  testCases.TC001_createAccount - ********Entering user details
+11:37:25:925 [main] INFO  testCases.TC001_createAccount - ********Clicking on continue button
+11:37:29:502 [main] INFO  testCases.TC001_createAccount - validating expected message
+11:37:29:530 [main] ERROR testCases.TC001_createAccount - Test Failed
+11:37:29:530 [main] DEBUG testCases.TC001_createAccount - Debug the error
+11:38:29:907 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\INE12400939\AppData\Local\JetBrains\IdeaIC2023.1\temp-testng-customsuite.xml"
+11:38:30:121 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\INE12400939\AppData\Local\JetBrains\IdeaIC2023.1\temp-testng-customsuite.xml
+
